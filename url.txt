@@ -1,0 +1,5 @@
+https://learn.upgrad.com/course/2800?courseId=15380
+https://auth.socialgoodplatform.com/auth/realms/skillsforall/protocol/openid-connect/auth?client_id=b2e-marketplace&redirect_uri=https%3A%2F%2Fskillsforall.com%2Flaunch%3Fid%3Dda0847b7-e6fc-4597-bc31-38ddd6b07a2e%26tab%3Dcurriculum%26view%3D907ec83d-7155-58d0-9b3e-824b4ca12f8f&state=4388a16e-9509-48e2-b293-536d7117635b&response_mode=fragment&response_type=code&scope=openid&nonce=3e89846d-30b4-40eb-ae2d-bc25ae9f934d&ui_locales=en-US
+https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/ifGZCL6vAeE9mzxt3?ref=TbBbbEboDggnZRrP6
+https://meet.google.com/ftr-xyvu-wzy
+https://leetcode.com/problemset/all/
